@@ -1,5 +1,3 @@
-Using Machine Learning-Powered Task Automation for Repetitive Tasks
-========================================================================================================
 
 In this chapter, we will explore how machine learning-powered task automation can improve productivity by handling repetitive tasks and allowing individuals and organizations to focus on more high-level tasks.
 

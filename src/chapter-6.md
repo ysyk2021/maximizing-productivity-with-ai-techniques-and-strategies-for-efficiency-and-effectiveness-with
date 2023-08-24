@@ -1,5 +1,3 @@
-Chapter 5: Automating Tasks with AI
-===================================
 
 In this chapter, we will explore how AI can be used to automate tasks and improve productivity.
 

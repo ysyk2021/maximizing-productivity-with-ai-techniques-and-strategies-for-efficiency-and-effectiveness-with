@@ -1,5 +1,3 @@
-Personalizing Time Management Strategies with Machine Learning
-============================================================================================================
 
 In this chapter, we will explore how machine learning can be used to personalize time management strategies and enhance productivity.
 

@@ -1,5 +1,3 @@
-Addressing Concerns about Privacy and Security when Using AI in the Workplace
-==========================================================================================================================================================================
 
 In this chapter, we will explore ethical considerations and best practices for using AI-powered productivity tools in the workplace, with a particular focus on concerns around privacy and security.
 

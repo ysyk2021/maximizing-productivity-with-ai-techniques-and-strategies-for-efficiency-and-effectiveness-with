@@ -1,5 +1,3 @@
-Personalizing Task Automation with Machine Learning
-========================================================================================
 
 In this chapter, we will explore how AI can be used to automate tasks through personalized task automation with machine learning.
 

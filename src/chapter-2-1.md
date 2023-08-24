@@ -1,5 +1,3 @@
-What is AI and How Does it Work for Enhancing Productivity?
-=======================================================================================================================
 
 Artificial Intelligence (AI) is a branch of computer science that deals with the simulation of intelligent behavior in machines. AI has been around for decades, but recent advancements in technology have led to the emergence of more powerful and sophisticated AI systems. These systems have the potential to revolutionize the way we work and live.
 

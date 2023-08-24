@@ -1,5 +1,3 @@
-Machine Learning-Powered Virtual Assistants for Productivity Support
-==================================================================================================================================================
 
 In today's fast-paced business world, individuals are looking for new ways to maximize productivity. Traditional tools such as calendars, task lists, and email can only take you so far. Fortunately, advances in machine learning have made it possible to create virtual assistants that offer personalized productivity support.
 
