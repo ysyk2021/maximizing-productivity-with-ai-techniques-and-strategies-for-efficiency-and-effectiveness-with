@@ -1,5 +1,4 @@
-Chapter: Common Applications of AI in Productivity Improvement, Including Task Automation and Scheduling
-========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------

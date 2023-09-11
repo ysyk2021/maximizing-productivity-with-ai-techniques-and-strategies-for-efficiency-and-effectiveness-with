@@ -1,5 +1,4 @@
-Chapter: AI-Powered Data Entry and Analysis for Improved Accuracy and Speed
-===========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------

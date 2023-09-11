@@ -1,5 +1,4 @@
-Chapter: Implementing AI-Powered Decision-Making Tools for Productivity Management
-==================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------

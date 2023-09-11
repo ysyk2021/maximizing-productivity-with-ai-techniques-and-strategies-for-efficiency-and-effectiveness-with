@@ -1,5 +1,4 @@
-Chapter: What is AI and How Does it Work for Enhancing Productivity?
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------
